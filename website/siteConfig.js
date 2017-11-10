@@ -9,7 +9,7 @@
 const users = [
   {
     caption: "User1",
-    image: "/img/docusaurus.svg",
+    image: "img/docusaurus.svg",
     infoLink: "https://www.example.com",
     pinned: true
   }
@@ -19,7 +19,7 @@ const siteConfig = {
   title: "Test Site" /* title for your website */,
   tagline: "A website for testing",
   url: "https://caabernathy.github.io" /* your website url */,
-  baseUrl: "/" /* base url for your project */,
+  baseUrl: "" /* base url for your project */,
   projectName: "docutest",
   headerLinks: [
     { doc: "doc1", label: "Docs" },
