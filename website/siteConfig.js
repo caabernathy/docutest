@@ -18,7 +18,7 @@ const users = [
 const siteConfig = {
   title: "Test Site" /* title for your website */,
   tagline: "A website for testing",
-  url: "https://caabernathy.github.io" /* your website url */,
+  url: "https://caabernathy.github.io/docutest/" /* your website url */,
   baseUrl: "" /* base url for your project */,
   projectName: "docutest",
   headerLinks: [
